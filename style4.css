@@ -1,0 +1,44 @@
+legend , fieldset , select , h4
+{
+	color: snow;
+	font-weight: bold;
+	font-family:sans-serif;
+}
+.soso , select{
+     width: 200px;
+     border: 2px solid rebeccapurple;
+     border-radius: 10px;
+     padding: 4px;
+     margin: 10px;
+     box-shadow: 2px 2px 2px black;
+
+
+
+}
+
+fieldset{
+	width: 95%;
+margin: 20px;
+border: 10 px solid black;
+border-radius: 40px;
+padding: 15px;
+background-color: rebeccapurple;
+box-shadow: 2px 2px 2px black;
+}
+
+h1,h2 {
+	color: black;
+	text-align: center;
+
+}
+
+h4 {
+color:black;
+font-family:sans-serif;
+
+}
+
+table {
+bottom: 2px;
+width: 50%;
+}
